@@ -1,2 +1,2 @@
 # Java-StudentPortal_LoginPage
-Java üzerinden yazdığım bir login uygulaması. Bu uygulamada birden çok kez kayıt olabilir, giriş yapabilir ve çıkış yapabilirsiniz.
+Bu Java Swing tabanlı proje, basit ve etkili bir öğrenci portalı giriş ve kayıt sistemi sunar. Kullanıcılar hesap oluşturabilir, sisteme güvenli bir şekilde giriş yapabilir ve kişisel bilgilerini görüntüleyebilirler. Veri yönetimi için yerleşik HashMap yapısı kullanılarak temel bir depolama çözümü sağlanmıştır. Bu proje, GUI uygulamaları ve kullanıcı kimlik doğrulama mekanizmalarının temel prensiplerini anlamak için pratik bir örnektir.
